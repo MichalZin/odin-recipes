@@ -1,4 +1,9 @@
-h1 {
-    background-color: antiquewhite;
-    color:aqua
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+}
+img {
+    max-width: fit-content;
 }
